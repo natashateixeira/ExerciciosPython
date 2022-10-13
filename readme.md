@@ -1,1 +1,1 @@
-Esse repositório vai conter os exercícios feitos a partir de questões do site beecrowd, tendo problemas para iniciantes do mais simples.... até onde eu conseguir fazer! :´D
+Esse repositório vai conter os exercícios feitos a partir de questões do site beecrowd, tendo as resoluções dos problemas para iniciantes - dos mais simples.... até onde eu conseguir fazer! :´D
