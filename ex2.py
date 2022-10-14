@@ -1,3 +1,4 @@
+#Extremamente Básico
 A = int(input())
 B = int(input())
 
