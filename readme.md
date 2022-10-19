@@ -1,1 +1,1 @@
-Esse repositório vai conter os exercícios feitos a partir de questões do site beecrowd, tendo as resoluções dos problemas para iniciantes - dos mais simples.... até onde eu conseguir fazer! :´D
+Esse repositório contém exercícios feitos a partir de questões do site beecrowd, solucionadas utilizando a linguagem Python.
